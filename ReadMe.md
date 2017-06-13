@@ -18,3 +18,10 @@ TODO
 
 ## Usage
 TODO
+
+## References
+### Packaging
+https://github.com/pypa/sampleproject - pip packaging details
+
+### Dependencies
+https://pypi.python.org/pypi/docopt - Argument parsing library
